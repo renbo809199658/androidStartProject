@@ -3,4 +3,6 @@
     <string name="edit_message">Enter a message.</string>
     <string name="button_send">SendMessage</string>
     <string name="button_action_bar">toActionBarActivity</string>
+    <string name="title_activity_fragment">FragmentActivity</string>
+    <string name="action_settings">Settings</string>
 </resources>

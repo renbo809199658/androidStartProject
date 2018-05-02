@@ -17,7 +17,11 @@
             </intent-filter>
         </activity>
         <activity android:name=".DisplayMessageActivity" />
-        <activity android:name=".ActionBarActivity"></activity>
+        <activity
+            android:name=".ActionBarActivity"
+            android:label="ActionBar"
+            android:logo="@mipmap/eye_green"
+            android:parentActivityName=".MainActivity" />
     </application>
 
 </manifest>
